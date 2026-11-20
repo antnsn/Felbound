@@ -1,3 +1,5 @@
+<p align="center"><img src="Felbound.png" width="180" alt="Felbound"></p>
+
 # Felbound
 
 A warlock helper for **WoW: Forever**, part of the Bound family (Lightbound, Chronobound,
