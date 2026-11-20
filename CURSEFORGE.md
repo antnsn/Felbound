@@ -1,5 +1,5 @@
 <!-- summary (CurseForge "Summary" field, at most 256 characters):
-Warlock helper for WoW: Forever: one-click cards for a demon that isn't out, Demon Armor that ran out, a missing Healthstone or Soulstone, and Soul Shards running low. Explained in plain words.
+Warlock helper for WoW: Forever: one-click cards for a demon that isn't out, Demon Armor that ran out, a missing Healthstone or Soulstone, and Soul Shards running low.
 -->
 
 # Felbound
