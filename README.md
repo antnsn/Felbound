@@ -3,7 +3,7 @@
 # Felbound
 
 A warlock helper for **WoW: Forever**, part of the Bound family (Lightbound, Chronobound,
-Stormbound, Packbound, Spiritbound). Easy for new warlocks, useful for all.
+Stormbound, Packbound, Spiritbound).
 
 - **Demon**: a card when your demon isn't out (out of combat, not mounted). Click it to summon the
   one you chose (Auto: the Voidwalker once you know it, else the Imp). It tells you when the

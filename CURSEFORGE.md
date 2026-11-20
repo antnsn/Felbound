@@ -6,7 +6,7 @@ Warlock helper for WoW: Forever: one-click cards for a demon that isn't out, Dem
 
 **The warlock helper for World of Warcraft: Forever: your demon, your armor, your stones and shards, explained.**
 
-Felbound reminds you of what a warlock needs between fights: a demon that isn't out, Demon Armor that ran out, a missing Healthstone or Soulstone, and Soul Shards running low. Every card is one click away from fixing it. Everything is explained in plain words, so it's easy for a new warlock and still handy for an old one.
+Felbound reminds you of what a warlock needs between fights: a demon that isn't out, Demon Armor that ran out, a missing Healthstone or Soulstone, and Soul Shards running low. Every card is one click away from fixing it.
 
 **Beta:** Felbound is new. Spell IDs come from Classic and are checked on Forever before 0.1.0; tell us what doesn't work.
 
