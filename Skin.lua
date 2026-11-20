@@ -68,6 +68,7 @@ local fel = {
 		glowEdge = { 0.62, 1, 0.42, 1 },
 		iconEdge = { 0.46, 0.82, 0.32, 0.9 },
 		frost = "Smoke", frostTint = { 0.50, 0.85, 0.40, 0.12 },
+		crest = "Crest", crestTint = { 0.50, 0.95, 0.35, 0.16 },
 		shards = "Rune", shardTint = { 0.60, 1, 0.42, 0.95 },
 		rim = "Rim", breathe = true, breatheTime = 2.6,
 		burst = false, studs = false, ring = false, round = false,
