@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: Felbound
+## Notes: Warlock helper: your demon (click to summon), Demon Armor, Healthstone and Soulstone, Soul Shards, Well Rested and Well Fed, Ritual of Summoning and Unending Breath on the Escape menu. Explained for new players. /fel for options.
+## Author: Rheolux
+## Version: @project-version@
+## IconTexture: Interface\AddOns\Felbound\Media\Icon64
+## SavedVariables: FelboundDB
+
+Libs\LibStub\LibStub.lua
+Libs\LibBound\LibBound.xml
+
+Core.lua
+Skin.lua
+Help.lua
+Demon.lua
+Armor.lua
+Stones.lua
+Travel.lua
+Options.lua
