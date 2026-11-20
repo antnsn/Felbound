@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "Felbound",
+  "project_id": "c7ac06f4-b568-476b-85ed-e431091e0834"
+}
