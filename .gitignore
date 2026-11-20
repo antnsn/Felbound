@@ -6,3 +6,4 @@
 *.db
 .beads-credential-key
 .claude/
+__pycache__/
