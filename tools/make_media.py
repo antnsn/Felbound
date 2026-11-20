@@ -199,3 +199,5 @@ if __name__ == "__main__":
     save(emblem(64), "Logo64")
     save(icon(64), "Icon64")
     save(icon(128), "Icon128")
+    emblem(1024).save("Felbound.png")  # the CurseForge project picture
+    print("wrote Felbound.png (1024, 1024)")
