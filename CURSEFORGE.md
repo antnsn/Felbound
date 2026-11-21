@@ -39,6 +39,10 @@ Felbound reminds you of what a warlock needs between fights: a demon that isn't 
 - `/fel minimap`: show or hide the minimap button
 - `/fel explain`: turn the plain-word explanations in tooltips on or off
 
+## Ideas and contributions
+- **Missing something?** New features are added on request: leave a comment here.
+- **Feel free to contribute**: the code is on GitHub, https://github.com/antnsn/Felbound (issues and pull requests welcome).
+
 ## The Bound family
 Felbound is one of the Bound addons, one per class, built on the same core: Lightbound (paladin), Chronobound (mage), Stormbound (shaman), Packbound (hunter), Spiritbound (priest) and Felbound (warlock). They look like their class but work the same way, so if you know one, you know them all.
 
