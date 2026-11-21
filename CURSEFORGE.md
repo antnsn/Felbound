@@ -52,6 +52,10 @@ Felbound is one of the Bound addons, one per class, built on the same core: Ligh
 
 ## Changelog
 <!-- changelog:start -->
+### 0.1.0 beta 5
+
+- Built on the latest LibBound, the shared core of the Bound addons, with its small fixes. Published on CurseForge straight from GitHub now.
+
 ### 0.1.0 beta 4
 
 - **Minimap button** works with minimap addons (EllesmereUI, SexyMap, ElvUI, MinimapButtonBag, broker bars): it is a LibDBIcon button now. Its place on the minimap is kept.
