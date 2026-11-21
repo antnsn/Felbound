@@ -14,6 +14,7 @@ Stormbound, Packbound, Spiritbound).
 - **Soul Shards**: says when you're down to a few (3 by default).
 - **Travel**: press Escape, and beside the game menu you get Ritual of Summoning, Unending Breath
   and your Hearthstone.
+- **Buff key** (Extras page): out of combat, each press casts the next thing a card asks for.
 - **Well-Rested and Well Fed** timers, plain-word explanations in tooltips, movable frames
   (`/fel unlock`), three skins (Fel, Blizzard, Flat).
 
