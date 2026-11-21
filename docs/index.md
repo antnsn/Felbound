@@ -40,7 +40,7 @@ Felbound only loads on warlocks.
 
 ## The Bound family
 
-Felbound is one of the Bound addons, one per class, built on the same core (LibBound): Lightbound (paladin), Chronobound (mage), Stormbound (shaman), Packbound (hunter), Spiritbound (priest) and Felbound (warlock). They look like their class but work the same way: the cards, the options window, the travel panel and the commands.
+Felbound is one of the Bound addons, one per class, built on the same core (LibBound): Lightbound (paladin), Chronobound (mage), Stormbound (shaman), Packbound (hunter), Spiritbound (priest), Felbound (warlock) and Dreambound (druid). They look like their class but work the same way: the cards, the options window, the travel panel and the commands.
 
 ## Where to go next
 
