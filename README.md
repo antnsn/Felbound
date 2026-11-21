@@ -3,7 +3,7 @@
 # Felbound
 
 A warlock helper for **WoW: Forever**, part of the Bound family: one addon per class on the same
-core (Lightbound, Chronobound, Stormbound, Packbound, Spiritbound, Felbound, Dreambound).
+core (Lightbound, Chronobound, Stormbound, Packbound, Spiritbound, Felbound, Dreambound, Ragebound, Shadowbound).
 
 Full guide: https://antnsn.github.io/Felbound/
 
